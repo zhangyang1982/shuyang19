@@ -7,3 +7,4 @@
 高，但你若从头开发你的成本会高出几倍，另外还赠送python爬取彩票开奖数据，mysql数据
 
 库搭建,项目上线nginx+uwsgi等全部毕生所学的技术
+网站源码功能验证网站：https://www.shuyang19.com
